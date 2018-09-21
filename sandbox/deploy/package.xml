@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>ApexClass</name>
+    <members>HelloWorldTest</members>
+    <members>WarrantySummaryTest</members>
+    <members>myclass1</members>
+    <members>myclass2</members>
+  </types>
+  <types>
+    <name>ApexTrigger</name>
+    <members>AccountToCase</members>
+    <members>WarrantySummary</members>
+  </types>
+  <version>43.0</version>
+</Package>

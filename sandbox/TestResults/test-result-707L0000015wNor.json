@@ -1,0 +1,46 @@
+{
+    "summary": {
+        "outcome": "Passed",
+        "testsRan": 1,
+        "passing": 1,
+        "failing": 0,
+        "skipped": 0,
+        "passRate": "100%",
+        "failRate": "0%",
+        "testStartTime": "Sep 5, 2018 2:52 PM",
+        "testExecutionTime": "1798 ms",
+        "testTotalTime": "1798 ms",
+        "commandTime": "4057 ms",
+        "hostname": "https://magnumia--train.cs8.my.salesforce.com",
+        "orgId": "00DL00000061gT0MAI",
+        "username": "christianc@magnumia.com.train",
+        "testRunId": "707L0000015wNor",
+        "userId": "00541000002T8ICAA0"
+    },
+    "tests": [
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v43.0/tooling/sobjects/ApexTestResult/07ML0000006wAf7MAE"
+            },
+            "Id": "07ML0000006wAf7MAE",
+            "QueueItemId": "709L00000018wmEIAQ",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "707L0000015wNorIAE",
+            "MethodName": "WarrantySummaryTest",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v43.0/tooling/sobjects/ApexClass/01pL0000001AoOnIAK"
+                },
+                "Id": "01pL0000001AoOnIAK",
+                "Name": "WarrantySummaryTest",
+                "NamespacePrefix": null
+            },
+            "RunTime": 1798,
+            "FullName": "WarrantySummaryTest.WarrantySummaryTest"
+        }
+    ]
+}

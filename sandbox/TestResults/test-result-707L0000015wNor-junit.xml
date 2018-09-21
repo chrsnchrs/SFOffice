@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="force.apex" timestamp="2018-09-05T14:52:44-05:00" hostname="https://magnumia--train.cs8.my.salesforce.com" tests="1" failures="0"  errors="0"  time="1.8">
+        <properties>
+            <property name="outcome" value="Passed"/>
+            <property name="testsRan" value="1"/>
+            <property name="passing" value="1"/>
+            <property name="failing" value="0"/>
+            <property name="skipped" value="0"/>
+            <property name="passRate" value="100%"/>
+            <property name="failRate" value="0%"/>
+            <property name="testStartTime" value="Sep 5, 2018 2:52 PM"/>
+            <property name="testExecutionTime" value="1.8 s"/>
+            <property name="testTotalTime" value="1.8 s"/>
+            <property name="commandTime" value="4.06 s"/>
+            <property name="hostname" value="https://magnumia--train.cs8.my.salesforce.com"/>
+            <property name="orgId" value="00DL00000061gT0MAI"/>
+            <property name="username" value="christianc@magnumia.com.train"/>
+            <property name="testRunId" value="707L0000015wNor"/>
+            <property name="userId" value="00541000002T8ICAA0"/>
+        </properties>
+        <testcase name="WarrantySummaryTest" classname="WarrantySummaryTest" time="1.8">
+        </testcase>
+    </testsuite>
+</testsuites>
